@@ -86,3 +86,8 @@ else:
     print("NO")
 
 ```
+
+**Install:**
+```
+python3 -m pip install git+https://github.com/seiferteric/unistruct.git
+```
