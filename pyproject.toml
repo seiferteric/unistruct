@@ -1,5 +1,5 @@
 [project]
-name = "unistruct_seiferteric"
+name = "unistruct"
 version = "0.0.1"
 authors = [
   { name="Eric Seifert", email="eric@seifert.casa" },
